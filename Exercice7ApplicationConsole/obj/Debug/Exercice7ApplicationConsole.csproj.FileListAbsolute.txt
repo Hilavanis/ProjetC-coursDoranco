@@ -1,0 +1,7 @@
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\bin\Debug\Exercice7ApplicationConsole.exe.config
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\bin\Debug\Exercice7ApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\bin\Debug\Exercice7ApplicationConsole.pdb
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\obj\Debug\Exercice7ApplicationConsole.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\obj\Debug\Exercice7ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\obj\Debug\Exercice7ApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice7ApplicationConsole\obj\Debug\Exercice7ApplicationConsole.pdb

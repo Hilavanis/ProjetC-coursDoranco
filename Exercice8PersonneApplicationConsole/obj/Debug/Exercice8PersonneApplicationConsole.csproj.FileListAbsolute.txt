@@ -1,0 +1,7 @@
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\bin\Debug\Exercice8PersonneApplicationConsole.exe.config
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\bin\Debug\Exercice8PersonneApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\bin\Debug\Exercice8PersonneApplicationConsole.pdb
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\obj\Debug\Exercice8PersonneApplicationConsole.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\obj\Debug\Exercice8PersonneApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\obj\Debug\Exercice8PersonneApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\Exercice8PersonneApplicationConsole\obj\Debug\Exercice8PersonneApplicationConsole.pdb

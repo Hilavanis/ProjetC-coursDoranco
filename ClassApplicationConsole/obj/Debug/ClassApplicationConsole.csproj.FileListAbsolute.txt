@@ -1,0 +1,7 @@
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\bin\Debug\ClassApplicationConsole.exe.config
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\bin\Debug\ClassApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\bin\Debug\ClassApplicationConsole.pdb
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\obj\Debug\ClassApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\obj\Debug\ClassApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\obj\Debug\ClassApplicationConsole.pdb
+C:\Users\stagiaire\source\repos\ApplicationConsole\ClassApplicationConsole\obj\Debug\ClassApplicationConsole.csprojResolveAssemblyReference.cache

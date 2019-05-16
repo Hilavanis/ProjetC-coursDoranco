@@ -1,0 +1,7 @@
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\bin\Debug\Ex4ApplicationConsole.exe.config
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\bin\Debug\Ex4ApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\bin\Debug\Ex4ApplicationConsole.pdb
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\obj\Debug\Ex4ApplicationConsole.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\obj\Debug\Ex4ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\obj\Debug\Ex4ApplicationConsole.exe
+C:\Users\stagiaire\source\repos\ApplicationConsole\Ex4ApplicationConsole\obj\Debug\Ex4ApplicationConsole.pdb
